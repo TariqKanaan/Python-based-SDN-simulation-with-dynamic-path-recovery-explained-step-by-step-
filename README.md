@@ -6,7 +6,7 @@ This repository presents an educational and research-focused simulation of **Sof
 
 📽️ **Related Tutorial Video:**  
 Watch the walkthrough of the notebook with technical explanations on YouTube:  
-[▶️ Simulate SDN with Python | Path Recovery Explained](https://www.youtube.com/your-video-link-here)
+[▶️ Simulate SDN with Python | Path Recovery Explained](https://www.youtube.com/watch?v=hHRBbygTRr0)
 
 ---
 
